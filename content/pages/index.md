@@ -49,7 +49,7 @@ sections:
             icon: arrow-right
             icon_position: right
         title: Ends Confusion
-      - title: For Regular People
+      - title: 1-Click Taxes
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
