@@ -12,7 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    title: A Real Estate
+    title: A Real Estate Accounting App You Will Love
   - section_id: features
     type: section_features
     background: gray
