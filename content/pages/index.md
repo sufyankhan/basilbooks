@@ -12,6 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+    title: A Real Estate
   - section_id: features
     type: section_features
     background: gray
