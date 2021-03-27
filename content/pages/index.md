@@ -5,9 +5,9 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    content: |
+    content: >
       Simple and Powerful Accounting for Lifestyles Unlimited Members,
-      Singlefamily and Passive Multi-family Investors
+      Single-family and Passive Multi-family Investors
     actions:
       - label: Learn More
         url: /features
