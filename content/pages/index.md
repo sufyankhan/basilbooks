@@ -53,9 +53,9 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          Collecting the information for your taxes is literally done by
+          The information you need to complete your taxes is gathered by
           clicking one button. Your transactions are organized exactly the way
-          the tax forms collect it.
+          the tax forms need it.
         actions:
           - label: Learn More
             url: /features
