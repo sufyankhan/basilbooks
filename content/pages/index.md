@@ -49,7 +49,7 @@ sections:
             icon: arrow-right
             icon_position: right
         title: For Regular People
-      - title: Cool Feature of Your Services
+      - title: For Regular People
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
