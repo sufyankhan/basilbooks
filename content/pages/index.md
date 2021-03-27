@@ -6,8 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     content: >
-      Simple and powerful accounting app for Lifestyles Unlimited members who
-      are single-family and passive multi-family investors.
+      Easy accounting app for Lifestyles Unlimited members who are single-family
+      and passive multi-family investors.
     actions:
       - label: Learn More
         url: /features
