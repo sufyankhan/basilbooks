@@ -36,10 +36,11 @@ sections:
             icon_position: right
       - image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          QuickBooks and other accounting apps account for every scenario under
+          the sun and are therefore confusing. BasilBooks is easy to understand
+          because it is designed for individual real estate and personal
+          accounting,
         actions:
           - label: Learn More
             url: /features
