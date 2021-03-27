@@ -100,7 +100,7 @@ sections:
         style: primary
 seo:
   title: Lifestyles BasilBooks
-  description: The preview of the Azimuth theme
+  description: A Real Estate Accounting App You Will Love
   extra:
     - name: 'og:type'
       value: website
