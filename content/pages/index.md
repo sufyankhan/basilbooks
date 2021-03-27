@@ -12,7 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    title: A Real Estate Accounting App You Will Love
+    title: Accounting As Simple As Humanly Possible
   - section_id: features
     type: section_features
     background: gray
