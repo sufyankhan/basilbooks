@@ -52,10 +52,10 @@ sections:
       - title: 1-Click Taxes
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Collecting the information for your taxes is literally done by
+          clicking one button. Your transactions are organized exactly the way
+          the tax forms collect it.
         actions:
           - label: Learn More
             url: /features
